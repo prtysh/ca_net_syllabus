@@ -9,7 +9,7 @@
 
 ### Counting, etc
 > Inclusion- Exclusion Principle
-> [pigeonhole principle](https://www.youtube.com/watch?v=ROnetLvbl6)
+> [pigeonhole principle](https://www.youtube.com/watch?v=ROnetLvbl6M)
 > Mathematical Induction
 > Bayes' Theorem
 
